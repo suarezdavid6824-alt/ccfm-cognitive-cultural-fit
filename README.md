@@ -81,7 +81,9 @@ pip install -r requirements.txt
 
 ### 3. Run the notebook
 Open Jupyter and execute:
+
 notebooks/CCFM_full_pipeline.ipynb
+
 Run cells sequentially.
 
 ## Outputs
@@ -93,18 +95,22 @@ The system generates:
 - Evidence traceability blocks
 - Actionable recommendations
 - Reports in Markdown and PDF/DOCX formats
+
 Example outputs are provided in the outputs/ folder.
 
-##Notes
+## Notes
 - Current demonstrations are based on synthetic and simulated profiles.
 - The system is intended for research and decision support purposes.
 - It is not designed for automated exclusion.
 
-##Author
+## Author
 David Suárez
+
 Team Success Manager (Ecuador)
+
 Research prototype for MSc applications in Cognitive Science and AI
 
-##License
+## License
 Code: MIT License (recommended)
+
 Paper: Academic use only
